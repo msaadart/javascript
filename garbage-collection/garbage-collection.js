@@ -1,8 +1,6 @@
-// Garbag Collection
-// JavaScript's garbage collection is an automatic process that helps manage memory by 
-// identifying and freeing up memory that is no longer being used by the application. 
-// This occurs in scenarios where the JavaScript engine identifies objects 
-// that are no longer needed or referenced and reclaims the memory they occupy.
+// What is Garbage Collection in JavaScript?
+// JavaScript's garbage collection is an automatic process that helps manage memory by identifying and freeing up memory that is no longer being used by the application. 
+// This occurs in scenarios where the JavaScript engine identifies no longer needed or referenced objects and reclaims the memory they occupy.
 
 
 // Unreferenced Variables
